@@ -17,10 +17,6 @@
         </div>
         
         <div class="nav-link-wrapper">
-          <a href="Bollywood.php">Bollywood movies</a>
-        </div>
-        
-        <div class="nav-link-wrapper">
           <a href="Kollywood.php">Kollywood Movies</a>
         </div>
         
