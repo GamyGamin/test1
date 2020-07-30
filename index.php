@@ -15,10 +15,6 @@
         <div class="nav-link-wrapper active-nav-link">
           <a href="index.php">Home</a>
         </div>
-
-        <div class="nav-link-wrapper">
-          <a href="Hollywood.php">Hollywood movies</a>
-        </div>
         
         <div class="nav-link-wrapper">
           <a href="Bollywood.php">Bollywood movies</a>
